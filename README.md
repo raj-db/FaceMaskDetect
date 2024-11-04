@@ -3,7 +3,7 @@ Using YOLO (You Only Look Once), an object detection algorithm to detect face ma
 
 ## Annotating Images
 
-I used Kaggle to download a dataset. After downloading this dataset, I used a graphical image annotating tool to label the images. The annotations should be saved as xml files. 
+ Kaggle to download a dataset. After downloading this dataset, I used a graphical image annotating tool to label the images. The annotations should be saved as xml files. 
 
 ### Installation
 
